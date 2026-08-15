@@ -2,8 +2,8 @@
 
 ### 🤖 Aspiring AI Engineer | Machine Learning | Data Science
 
-🎓 Master's Student in Applied Mathematics & Statistics  
-📍 Lille, France  
+🎓 Master's Student in Applied Mathematics & Statistics - Data Modeling 
+ Lille, France  
 🔎 Open to Internship & Apprenticeship Opportunities in AI / Data
 
 ---
